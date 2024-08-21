@@ -1,0 +1,8 @@
+.cart-widget {
+    position: relative;
+}
+
+.cart-icon__cart {
+    font-size: 28px;
+    padding-right: 6px;
+}

@@ -1,0 +1,11 @@
+/* Calling Global Styles */
+
+@import './styles/reset.css';
+@import './styles/shared.css';
+
+/* Calling Components */
+
+@import './components/Navbar/style.css';
+@import './components/CartWidget/style.css';
+@import './components/Pill/style.css';
+@import './components/SubNav/style.css';
