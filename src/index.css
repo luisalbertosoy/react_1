@@ -5,7 +5,20 @@
 
 /* Calling Components */
 
-@import './components/Navbar/style.css';
+@import './containers/Header/style.css';
+@import './containers/BluredHeader/style.css';
 @import './components/CartWidget/style.css';
 @import './components/Pill/style.css';
-@import './components/SubNav/style.css';
+@import './components/LinkButton/style.css';
+@import './components/LinkButtonSmall/style.css';
+@import './containers/SubNav/style.css';
+@import './components/HeroSpace/style.css';
+@import './components/ItemList/style.css';
+@import './components/Card/style.css';
+@import './components/ProductDetail/style.css';
+@import './containers/Footer/style.css';
+
+/* Calling Pages */
+
+@import './pages/Home/style.css';
+@import './pages/Store/style.css';

@@ -1,6 +1,6 @@
-import CartWidget from "../CartWidget";
+import CartWidget from "../../components/CartWidget"
 
-const Navbar = () => {
+const Header = () => {
     return (
         <header className='header-index'>      
             <nav className='nav-container'>
@@ -19,4 +19,4 @@ const Navbar = () => {
     );
 }
 
-export default Navbar;
+export default Header;

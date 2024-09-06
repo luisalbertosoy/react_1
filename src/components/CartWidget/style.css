@@ -1,6 +1,11 @@
 .cart-widget {
-    position: relative;
-}
+    position: relative; }
+    .cart-widget a {
+        border-bottom: 2px solid transparent; }
+        .cart-widget a:hover {
+            border-bottom: 2px solid transparent; }
+
+
 
 .cart-icon__cart {
     font-size: 28px;

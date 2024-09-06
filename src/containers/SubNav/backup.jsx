@@ -1,3 +1,5 @@
+import SubMenu from "../../components/SubMenu";
+
 const SubNav = () => {
     return (
         <div className="sub-container">
